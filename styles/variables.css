@@ -12,7 +12,7 @@
   --decorated-zone-color:  #FF0070;
   --decorated-zone-padding: 10px;
   --rec-color: #ff0070;  
-  --rec-block-start: 11px;
+  --rec-block-start: 10px;
   --rec-inline-end: 19px;
   --head-color: #db00ff;
   --head-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
